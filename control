@@ -1,0 +1,9 @@
+Package: com.safari26.tweak
+Name: Safari26
+Version: 0.5.1
+Architecture: iphoneos-arm64e
+Description: Modern UI Safari ala iOS 26 untuk iOS 16 roothide
+Maintainer: cupecups
+Author: cupecups
+Section: Tweaks
+Depends: firmware (>= 16.0)
